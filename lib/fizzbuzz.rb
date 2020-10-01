@@ -7,4 +7,6 @@ def fizzbuzz(number)
     return 'fizz'
   end
    return number
+
+   puts "WE MADE A NEW BRANCH!!!!!!!!!!!"
 end
